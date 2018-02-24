@@ -1,0 +1,34 @@
+<component name="libraryTable">
+  <library name="com.algolia:algoliasearch-async:2.15.6" type="repository">
+    <properties maven-id="com.algolia:algoliasearch-async:2.15.6" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/algolia/algoliasearch-async/2.15.6/algoliasearch-async-2.15.6.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/algolia/algoliasearch/2.15.6/algoliasearch-2.15.6.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/22.0/guava-22.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/errorprone/error_prone_annotations/2.0.18/error_prone_annotations-2.0.18.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/j2objc/j2objc-annotations/1.1/j2objc-annotations-1.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/codehaus/mojo/animal-sniffer-annotations/1.14/animal-sniffer-annotations-1.14.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/algolia/algoliasearch-common/2.15.6/algoliasearch-common-2.15.6.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-core/2.9.0/jackson-core-2.9.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.9.0/jackson-databind-2.9.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-annotations/2.9.0/jackson-annotations-2.9.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/palominolabs/http/url-builder/1.1.0/url-builder-1.1.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/commons/commons-lang3/3.1/commons-lang3-3.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.3/httpclient-4.5.3.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.6/httpcore-4.4.6.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/commons-logging/commons-logging/1.2/commons-logging-1.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/commons-codec/commons-codec/1.9/commons-codec-1.9.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/net/javacrumbs/future-converter/future-converter-java8-guava/1.1.0/future-converter-java8-guava-1.1.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/net/javacrumbs/future-converter/future-converter-common/1.1.0/future-converter-common-1.1.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/net/javacrumbs/future-converter/future-converter-java8-common/1.1.0/future-converter-java8-common-1.1.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/net/javacrumbs/future-converter/future-converter-guava-common/1.1.0/future-converter-guava-common-1.1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/algolia/algoliasearch-async/2.15.6/algoliasearch-async-2.15.6-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.ideaLibSources/jackson-core-2.9.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
